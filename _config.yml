@@ -82,9 +82,9 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscript:
+  manuscripts:
     title: 'Journal Articles'    
-  conference:
+  conferences:
     title: 'Conference Presentations'
 
 # Site Settings
