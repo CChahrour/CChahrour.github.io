@@ -5,8 +5,6 @@ permalink: /publication/2024-09-18-lin28b-infant-leukemia
 excerpt: 'Shows that LIN28B is critical for fetal B-cell development and initiation of infant leukemia.'
 date: 2024-09-18
 venue: 'bioRxiv'
-category: manuscripts
+category: manuscript
 paperurl: 'https://doi.org/10.1101/2024.09.18.613730'
 ---
-
-[Link to Paper](https://doi.org/10.1101/2024.09.18.613730)

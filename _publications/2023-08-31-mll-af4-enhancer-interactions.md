@@ -5,8 +5,6 @@ permalink: /publication/2023-08-31-mll-af4-enhancer-interactions
 excerpt: 'Describes how MLL-AF4 collaborates with co-factors to shape enhancer architecture in leukemia.'
 date: 2023-08-31
 venue: 'Nature Communications'
-category: manuscripts
+category: manuscript
 paperurl: 'https://doi.org/10.1038/s41467-023-40981-9'
 ---
-
-[Link to Paper](https://doi.org/10.1038/s41467-023-40981-9)
