@@ -5,6 +5,6 @@ permalink: /publication/2024-12-08-enhancer-heterogeneity-leukemia
 excerpt: 'This study explores how enhancer variability in ALL patients contributes to divergent gene expression.'
 date: 2024-12-08
 venue: 'bioRxiv'
-category: manuscript
+category: manuscripts
 paperurl: 'https://doi.org/10.1101/2024.12.08.627394'
 ---

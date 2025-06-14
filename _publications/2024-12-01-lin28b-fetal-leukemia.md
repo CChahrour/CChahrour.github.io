@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/2024-12-01-lin28b-fetal-leukemia
 date: 2024-12-01
 venue: '66th American Society of Hematology Annual Meeting, San Diego, CA, USA'
-category: conference
+category: conferences
 paperurl: 'https://doi.org/10.1182/blood-2024-198819'
 ---
