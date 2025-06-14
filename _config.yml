@@ -31,6 +31,7 @@ author:
   location         : "Oxford, UK"
   employer         : "University of Oxford"
   uri              : "https://www.imm.ox.ac.uk/people/catherine-chahrour"
+  uri_label        : "WIMM" # Label for the link to your website
   email            : # "none@example.org" 
 
   # Academic websites
