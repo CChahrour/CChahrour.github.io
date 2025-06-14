@@ -7,7 +7,6 @@ date: 2023-08-31
 venue: 'Nature Communications'
 category: manuscripts
 paperurl: 'https://doi.org/10.1038/s41467-023-40981-9'
-citation: 'Crump, N.T., Smith, A.L., Chahrour, C., et al. (2023). &quot;MLL-AF4 cooperates with PAF1 and FACT in leukemia.&quot; &lt;i&gt;Nature Communications&lt;/i&gt;. doi:10.1038/s41467-023-40981-9'
 ---
 
 [Link to Paper](https://doi.org/10.1038/s41467-023-40981-9)
