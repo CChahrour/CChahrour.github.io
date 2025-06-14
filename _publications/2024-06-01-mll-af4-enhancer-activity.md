@@ -8,3 +8,4 @@ category: conferences
 citation: 'Smith, A.L., Denny, N., Chahrour, C., et al. (2024). MLL-AF4 and enhancer activity. GRaCF, Madrid'
 ---
 
+Poster

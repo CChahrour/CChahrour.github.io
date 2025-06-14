@@ -7,3 +7,5 @@ venue: 'Molecular Haemopoiesis, London, UK'
 category: conferences
 citation: 'Sharlandjieva, V., Chahrour, C., Lassen, F.H., et al. (2023). Menin in MLL-AF4 and NPM1c leukemia. Molecular Haemopoiesis, London'
 ---
+
+Poster
