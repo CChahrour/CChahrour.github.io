@@ -12,5 +12,3 @@ citation: 'Wiggins, B.G., Wang, Y.F., Chahrour, C., et al. (2023). &quot;Endothe
 Demonstrates how endothelial AHR sensing maintains gut homeostasis and barrier function.
 
 [Download paper here](https://doi.org/10.1038/s41586-023-06508-4)
-
-Recommended citation: Wiggins, B.G., Wang, Y.F., Chahrour, C., et al. (2023). "Endothelial sensing of AHR ligands regulates intestinal homeostasis." <i>Nature</i>. doi:10.1038/s41586-023-06508-4

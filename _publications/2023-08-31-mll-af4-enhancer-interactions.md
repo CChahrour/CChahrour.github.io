@@ -12,5 +12,3 @@ citation: 'Crump, N.T., Smith, A.L., Chahrour, C., et al. (2023). &quot;MLL-AF4 
 Describes how MLL-AF4 collaborates with co-factors to shape enhancer architecture in leukemia.
 
 [Download paper here](https://doi.org/10.1038/s41467-023-40981-9)
-
-Recommended citation: Crump, N.T., Smith, A.L., Chahrour, C., et al. (2023). "MLL-AF4 cooperates with PAF1 and FACT in leukemia." <i>Nature Communications</i>. doi:10.1038/s41467-023-40981-9

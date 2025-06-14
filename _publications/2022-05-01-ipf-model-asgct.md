@@ -9,5 +9,3 @@ paperurl: 'doi:10.1016/j.ymthe.2022.04.017'
 citation: 'Cerezuela, M.P., Munis, A.M., Du, Y., Chahrour, C., et al. (2022). High-throughput IPF model for gene therapy. ASGCT, Washington. doi:10.1016/j.ymthe.2022.04.017'
 ---
 [Download paper here](doi:10.1016/j.ymthe.2022.04.017)
-
-Recommended citation: Cerezuela, M.P., Munis, A.M., Du, Y., Chahrour, C., et al. (2022). High-throughput IPF model for gene therapy. ASGCT, Washington. doi:10.1016/j.ymthe.2022.04.017

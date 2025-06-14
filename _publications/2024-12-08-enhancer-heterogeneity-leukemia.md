@@ -12,5 +12,3 @@ citation: 'Smith, A.L., Denny, N., Chahrour, C., et al. (2024). &quot;Enhancer h
 This study explores how enhancer variability in ALL patients contributes to divergent gene expression.
 
 [Download paper here](https://doi.org/10.1101/2024.12.08.627394)
-
-Recommended citation: Smith, A.L., Denny, N., Chahrour, C., et al. (2024). "Enhancer heterogeneity in acute lymphoblastic leukemia drives differential gene expression between patients." <i>bioRxiv</i>. doi:10.1101/2024.12.08.627394
