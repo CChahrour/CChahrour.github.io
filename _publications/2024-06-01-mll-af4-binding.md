@@ -5,5 +5,5 @@ permalink: /publication/2024-06-01-mll-af4-binding
 date: 2024-06-01
 venue: 'Genome Regulation and Cellular Fates in Homeostasis and Disease, Madrid, Spain'
 category: posters
-slidesurl: 'files/Gen_reg_poster_Catherine.pdf'
+slidesurl: 'https://cchahrour.github.io/files/Gen_reg_poster_Catherine.pdf'
 ---
