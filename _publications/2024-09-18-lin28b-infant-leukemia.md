@@ -12,5 +12,3 @@ citation: 'Ling, R., Jackson, T., Elliott, N., Chahrour, C., et al. (2024). &quo
 Shows that LIN28B is critical for fetal B-cell development and initiation of infant leukemia.
 
 [Download paper here](https://doi.org/10.1101/2024.09.18.613730)
-
-Recommended citation: Ling, R., Jackson, T., Elliott, N., Chahrour, C., et al. (2024). "LIN28B is essential for fetal B-lymphopoiesis and KMT2A::AFF1 leukemia." <i>bioRxiv</i>. doi:10.1101/2024.09.18.613730

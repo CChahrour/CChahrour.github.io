@@ -9,5 +9,3 @@ paperurl: 'doi.org/10.1182/blood-2024-208035'
 citation: 'Smith, A.L., Denny, N., Chahrour, C., et al. (2024). Differential Gene Expression in KMT2A::AFF1 Leukemia. ASH Annual Meeting. doi:10.1182/blood-2024-208035'
 ---
 [Download paper here](doi.org/10.1182/blood-2024-208035)
-
-Recommended citation: Smith, A.L., Denny, N., Chahrour, C., et al. (2024). Differential Gene Expression in KMT2A::AFF1 Leukemia. ASH Annual Meeting. doi:10.1182/blood-2024-208035

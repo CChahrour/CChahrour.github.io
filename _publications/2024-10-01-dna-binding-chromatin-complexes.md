@@ -9,5 +9,3 @@ paperurl: 'Poster'
 citation: 'Chahrour, C., Smith, A.L., Milne, T.A. (2024). DNA binding specificity of chromatin complexes. Molecular Haemopoiesis, London'
 ---
 Poster
-
-Recommended citation: Chahrour, C., Smith, A.L., Milne, T.A. (2024). DNA binding specificity of chromatin complexes. Molecular Haemopoiesis, London

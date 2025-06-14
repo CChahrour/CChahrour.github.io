@@ -9,5 +9,3 @@ paperurl: 'Poster'
 citation: 'Chahrour, C., Smith, A.L., Milne, T.A. (2024). MLL-AF4 DNA binding specificity. GRaCF, Madrid'
 ---
 Poster
-
-Recommended citation: Chahrour, C., Smith, A.L., Milne, T.A. (2024). MLL-AF4 DNA binding specificity. GRaCF, Madrid
