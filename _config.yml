@@ -30,11 +30,11 @@ author:
   bio              : "DPhil student at Oxford building interpretable ML models for epigenomics and gene regulation"
   location         : "Oxford, UK"
   employer         : "University of Oxford"
-  uri              : # URL
+  uri              : "https://www.imm.ox.ac.uk/people/catherine-chahrour"
   email            : # "none@example.org" 
 
   # Academic websites
-  academia         : "https://www.imm.ox.ac.uk/people/catherine-chahrour"
+  academia         : # URL - Update with the correct link to your profile
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL
   impactstory      : # URL
