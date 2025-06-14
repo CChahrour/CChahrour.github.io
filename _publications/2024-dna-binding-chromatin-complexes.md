@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/01/10/2024-dna-binding-chromatin-complexes
 date: 01/10/2024
 venue: 'Molecular Haemopoiesis, London, UK'
-category: 'conference'
+category: conference
 paperurl: 'Poster'
 citation: 'Chahrour, C., Smith, A.L., Milne, T.A. (2024). DNA binding specificity of chromatin complexes. Molecular Haemopoiesis, London'
 ---

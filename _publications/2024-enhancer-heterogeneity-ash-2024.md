@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/01/12/2024-enhancer-heterogeneity-ash-2024
 date: 01/12/2024
 venue: '66th American Society of Hematology Annual Meeting, San Diego, CA, USA'
-category: 'conference'
+category: conference
 paperurl: 'doi.org/10.1182/blood-2024-208035'
 citation: 'Smith, A.L., Denny, N., Chahrour, C., et al. (2024). Differential Gene Expression in KMT2A::AFF1 Leukemia. ASH Annual Meeting. doi:10.1182/blood-2024-208035'
 ---
